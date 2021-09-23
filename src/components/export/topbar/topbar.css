@@ -1,0 +1,43 @@
+.topbarText {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 37px;
+    line-height: 46px;
+    display: flex;
+    align-items: center;
+    color: #000;
+}
+
+.topbarLogo {
+    width: 235px;
+    height: 35px;
+    position: absolute;
+    left: 292px;
+    top: 47px;
+}
+
+.topbarButton {
+    position: absolute;
+    width: 202px;
+    height: 51px;
+    left: 1216px;
+    top: 40px;
+    background: rgba(225, 45, 45, 0.87);
+    border-radius: 35px;
+}
+
+.btn {
+    position: absolute;
+    width: 133px;
+    height: 33px;
+    left: 80px;
+    top: 10px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
