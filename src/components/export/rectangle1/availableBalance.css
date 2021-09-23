@@ -1,0 +1,46 @@
+.leftSide {
+    padding-left: 32px;
+}
+
+.balanceHeading {
+    position: absolute;
+    width: 195px;
+    height: 39px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.availableBalanceDetail {
+    position: absolute;
+    width: 258px;
+    height: 47px;
+    top: 50px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.viewDetail {
+    position: absolute;
+    width: 195px;
+    height: 39px;
+    bottom: 20px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: flex-end;
+    color: #FF8B01;
+}
